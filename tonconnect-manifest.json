@@ -1,5 +1,5 @@
 {
-    "url": "tonconnect-manifest.json",
+    "url": "https://raw.githubusercontent.com/navidpgg/mct_tconnect_man/refs/heads/master/tonconnect-manifest.json",
     "name": "mychesston",
-    "iconUrl": "icon.png"
+    "iconUrl": "https://raw.githubusercontent.com/navidpgg/mct_tconnect_man/refs/heads/master/icon.png"
 }
